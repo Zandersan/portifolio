@@ -2,11 +2,6 @@
 
 Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a data engineer. This repository showcases a diverse collection of projects I’ve completed, ranging from coursework in data analytics/engineering to self-initiated exercises. Each project reflects essential skills and techniques.
 
-## [Robot Framework - Quality Assurance](https://github.com/Zandersan/RobotFramework)
-* **Overview**: Used Beautiful Soup to scrape data from the official Berlin website, created a dataset with all restaurants in Berlin, and visualized the data through an interactive map of restaurants on Tableau Public.
-* **Technologies**: Python, Beautiful Soup, pandas
-* **Outcome**: Interactive map displaying restaurants in Berlin.
-
 ## [Web Scraping - Beautiful Soup](https://github.com/Zandersan/Beautiful-Soup)
 * **Overview**: Scraped data from Berlin’s official website using Beautiful Soup, created a dataset with restaurant information, and visualized it in an interactive map on Tableau Public.
 * **Technologies**: Python, Beautiful Soup, pandas
