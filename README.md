@@ -1,47 +1,42 @@
 # Data Engineer Portfolio
-Greetings! My name is Lucjan, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 
-[Web Scrapping - Beautiful Soup]()
-* Brief overview: Beautiful Soup tool used to extract data from official Berlin website, create a dataset with all restaurants in Berlin and then visualize in form of map of restaurants in Tableau Public.
-* Technology used: python, Beautiful Soup, pandas
-* Final results: interactive map of restaurants in Berlin
-  
-[Apache Airflow - Dataflow Pipeline]()
-* Brief overview: Apache Beam model was used to extract, transform and load (ETL) data from BigQuery dataset (bigquery-public-data.london_bicycles.cycle_hire) with some detailed informations about London bicycles to obtain some insight on London cycling behaviour. The task was to get number of rides from one station to another and present the results in form of text file (start_id, end_id, number_of_rides)
-* Technology used: python, Apache Beam, GCP, Google Cloud SDK Shell
-* Final results: output text file with results
+Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a data engineer. This repository showcases a diverse collection of projects I’ve completed, ranging from coursework in data analytics/engineering to self-initiated exercises. Each project reflects essential skills and techniques.
 
-[Apache Spark - Similar Movies Finder]()
-* Brief overview: Apache Spark was used to process a large volume of data by using an EMR cluster on AWS. The objective was to analyze 27 million movie ratings for 58,000 movies provided by 280,000 users and find the most similar movies to a selected movie.
-* Technology used: AWS (EMR on EC2, S3), Apache Spark, pyspark, python
-* Final results: Top 10 movies similar to "Star Wars: Episode IV - A New Hope"
+## [Robot Framework - Quality Assurance](https://github.com/Zandersan/RobotFramework)
+* **Overview**: Used Beautiful Soup to scrape data from the official Berlin website, created a dataset with all restaurants in Berlin, and visualized the data through an interactive map of restaurants on Tableau Public.
+* **Technologies**: Python, Beautiful Soup, pandas
+* **Outcome**: Interactive map displaying restaurants in Berlin.
 
-[Apache Kafka - Stock Market Simulated]()
-* Brief overview: In this project, Apache Kafka was used to test the functionality of streaming data transmission.
-* Technology used: AWS (EC2, S3, Crawler, Amazon Athena), python
-* Outcome: Continuously uploaded data to an S3 bucket during the program's execution
+## [Web Scraping - Beautiful Soup](https://github.com/Zandersan/Beautiful-Soup)
+* **Overview**: Scraped data from Berlin’s official website using Beautiful Soup, created a dataset with restaurant information, and visualized it in an interactive map on Tableau Public.
+* **Technologies**: Python, Beautiful Soup, pandas
+* **Outcome**: Interactive map visualizing restaurants in Berlin.
 
-[Google Data Analytics Capstone: Complete a Case Study]()
-* Brief overview: Following case study was completed as part of the Google Data Analytics Certificate.
-* Methodology: data preprocessing, data cleaning, data analysis, visualization, making conclusions, creating a strategy proposal
-* Technology used: python, pandas, matplotlib, numpy, seaborn
-* Final results: analysis & visualisation
+## [Apache Airflow - Dataflow Pipeline](https://github.com/Zandersan/Dataflow-Pipelines)
+* **Overview**: Utilized Apache Beam to perform ETL operations on a BigQuery dataset (bigquery-public-data.london_bicycles.cycle_hire), extracting detailed data about London bicycles to analyze cycling behaviors. The goal was to calculate the number of rides between stations and output the results as a text file (start_id, end_id, number_of_rides).
+* **Technologies**: Python, Apache Beam, GCP, Google Cloud SDK Shell
+* **Outcome**: Text file with ETL results.
 
-Others:
-* [SQL - Simple Shop Database]()
+## [Apache Spark - Similar Movies Finder](https://github.com/Zandersan/Apache-Spark)
+* **Overview**: Processed large-scale data using Apache Spark on an EMR cluster hosted on AWS. Analyzed 27 million movie ratings for 58,000 movies provided by 280,000 users to find the most similar movies to a selected one.
+* **Technologies**: AWS (EMR on EC2, S3), Apache Spark, PySpark, Python
+* **Outcome**: Top 10 most similar movies to "Star Wars: Episode IV - A New Hope."
 
-* [SQL - Premier League Team's Performance Analysis]()
+## [Apache Kafka - Stock Market Simulation](https://github.com/Zandersan/Apache-Kafka)
+* **Overview**: Implemented Apache Kafka to simulate real-time data streaming. 
+* **Technologies**: AWS (EC2, S3, Crawler, Amazon Athena), Python
+* **Outcome**: Continuous data uploads to an S3 bucket during the simulation.
 
-* [Tableau Public - Premier League Teams Performance Analysis]()
+## [Google Data Analytics Capstone: Complete a Case Study](https://github.com/Zandersan/GCP-Case-Study)
+* **Overview**: Completed a case study as part of the Google Data Analytics Certificate program.
+* **Methodology**: Data preprocessing, cleaning, analysis, visualization, drawing conclusions, and creating a strategy proposal.
+* **Technologies**: Python, pandas, matplotlib, numpy, seaborn
+* **Outcome**: Comprehensive analysis and visualizations.
 
-* [Python/Pandas - Premier League 2010/11 League Table]()
+## Additional Projects:
+* [SQL - Simple Shop Database](https://github.com/Zandersan/sql-database-shop)
+* [SQL - Premier League Team's Performance Analysis](https://github.com/Zandersan/premier-league-sql)
+* [Python/Pandas - Premier League 2010/11 League Table](https://github.com/Zandersan/pandas-data-analysis)
+* [HTML - Simple HTML Code](https://github.com/Zandersan/HTML)
 
-* [Python - Snake Game]()
-
-* [Python - Simple Games]()
-
-* [Python - Automating tools]()
-
-[My LinkedIn Profile](https://www.linkedin.com/in/alexandre-rocha-b68693139/)
-
-[My Tableau Profile]()
+## [My LinkedIn Profile](https://www.linkedin.com/in/alexandre-rocha-b68693139/)
