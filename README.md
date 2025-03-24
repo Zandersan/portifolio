@@ -22,7 +22,7 @@ Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a dat
 * **Technologies**: AWS (EC2, S3, Crawler, Amazon Athena), Python
 * **Outcome**: Continuous data uploads to an S3 bucket during the simulation.
 
-## [Google Data Analytics Capstone: Complete a Case Study](https://github.com/Zandersan/GCP-Case-Study)
+## [Google Data Analytics: Complete a Case Study](https://github.com/Zandersan/GCP-Case-Study)
 * **Overview**: Completed a case study as part of the Google Data Analytics Certificate program.
 * **Methodology**: Data preprocessing, cleaning, analysis, visualization, drawing conclusions, and creating a strategy proposal.
 * **Technologies**: Python, pandas, matplotlib, numpy, seaborn
