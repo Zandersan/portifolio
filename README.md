@@ -28,6 +28,11 @@ Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a dat
 * **Technologies**: Python, pandas, matplotlib, numpy, seaborn
 * **Outcome**: Comprehensive analysis and visualizations.
 
+## [Transfer Learning - Classificação de Gatos e Cachorros](https://github.com/Zandersan/portifolio/blob/main/debinha_niko_transfer_learning.ipynb)  
+* **Overview**: Utilizou Transfer Learning com modelos pré-treinados para classificar imagens de gatos e cachorros. Projeto completo com tratamento de exceções, visualização de previsões e funcionalidade para upload e teste com imagens personalizadas.  
+* **Technologies**: Python, TensorFlow, Keras, NumPy, matplotlib  
+* **Outcome**: Classificador funcional com interface de upload e resultados visuais das previsões.  
+
 ## Additional Projects:
 * [SQL - Simple Shop Database](https://github.com/Zandersan/sql-database-shop)
 * [SQL - Premier League Team's Performance Analysis](https://github.com/Zandersan/premier-league-sql)
