@@ -31,7 +31,13 @@ Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a dat
 ## [Transfer Learning - Cat and Dog Classification](https://github.com/Zandersan/portifolio/blob/main/debinha_niko_transfer_learning.ipynb)  
 * **Overview**: Applied Transfer Learning with pre-trained models to classify images of cats and dogs. The project includes error handling, prediction visualization, and functionality to upload and test custom images.  
 * **Technologies**: Python, TensorFlow, Keras, NumPy, matplotlib  
-* **Outcome**: Fully functional classifier with an upload interface and visual prediction results.  
+* **Outcome**: Fully functional classifier with an upload interface and visual prediction results.
+
+## [PPM Image Processing - Grayscale and Binarization](https://github.com/Zandersan/binary_ppm)
+* **Overview**: Processed a raw PPM image (binary P6 format) entirely in pure Python. The project includes converting an RGB image to grayscale and then to a binary (black and white) image using a fixed threshold, without relying on any external libraries.
+* **Technologies**: Python (standard library only)
+* **Outcome**: Generates two output images — one in grayscale and one binarized — demonstrating foundational image processing techniques without third-party dependencies.
+
 
 ## Additional Projects:
 * [SQL - Simple Shop Database](https://github.com/Zandersan/sql-database-shop)
