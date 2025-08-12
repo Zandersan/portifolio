@@ -2,6 +2,11 @@
 
 Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a data engineer. This repository showcases a diverse collection of projects I’ve completed, ranging from coursework in data analytics/engineering to self-initiated exercises. Each project reflects essential skills and techniques.
 
+## [Detecção e Reconhecimento Facial com TensorFlow no Google Colab](https://github.com/Zandersan/ml_study/blob/deteccao_facial/deteccao_facial.ipynb)
+* **Overview**: Projeto para detectar e reconhecer múltiplas faces simultaneamente usando TensorFlow e MTCNN. Treinamento automático com dataset público do Kaggle, execução no Google Colab e suporte para upload de imagens para teste.
+* **Technologies**: Python, TensorFlow, MTCNN, OpenCV, Kagglehub, Google Colab
+* **Outcome**: Modelo treinado para reconhecimento facial em imagens com múltiplas pessoas, com interface simples para testes interativos.
+
 ## [Web Scraping - Beautiful Soup](https://github.com/Zandersan/Beautiful-Soup)
 * **Overview**: Scraped data from Berlin’s official website using Beautiful Soup, created a dataset with restaurant information, and visualized it in an interactive map on Tableau Public.
 * **Technologies**: Python, Beautiful Soup, pandas
@@ -33,13 +38,9 @@ Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a dat
 * **Technologies**: Python, TensorFlow, Keras, NumPy, matplotlib  
 * **Outcome**: Fully functional classifier with an upload interface and visual prediction results.
 
-## [PPM Image Processing - Grayscale and Binarization](https://github.com/Zandersan/binary_ppm)
-* **Overview**: Processed a raw PPM image (binary P6 format) entirely in pure Python. The project includes converting an RGB image to grayscale and then to a binary (black and white) image using a fixed threshold, without relying on any external libraries.
-* **Technologies**: Python (standard library only)
-* **Outcome**: Generates two output images — one in grayscale and one binarized — demonstrating foundational image processing techniques without third-party dependencies.
-
 
 ## Additional Projects:
+* [PPM Image Processing - Grayscale and Binarization](https://github.com/Zandersan/binary_ppm)
 * [SQL - Simple Shop Database](https://github.com/Zandersan/sql-database-shop)
 * [SQL - Premier League Team's Performance Analysis](https://github.com/Zandersan/premier-league-sql)
 * [Python/Pandas - Premier League 2010/11 League Table](https://github.com/Zandersan/pandas-data-analysis)
