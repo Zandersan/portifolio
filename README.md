@@ -2,10 +2,10 @@
 
 Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a data engineer. This repository showcases a diverse collection of projects I’ve completed, ranging from coursework in data analytics/engineering to self-initiated exercises. Each project reflects essential skills and techniques.
 
-## [Detecção e Reconhecimento Facial com TensorFlow no Google Colab](https://github.com/Zandersan/ml_study/blob/deteccao_facial/deteccao_facial.ipynb)
-* **Overview**: Projeto para detectar e reconhecer múltiplas faces simultaneamente usando TensorFlow e MTCNN. Treinamento automático com dataset público do Kaggle, execução no Google Colab e suporte para upload de imagens para teste.
+## [Facial Detection and Recognition with TensorFlow on Google Colab](https://github.com/Zandersan/ml_study/blob/deteccao_facial/deteccao_facial.ipynb)
+* **Overview**: Project to detect and recognize multiple faces simultaneously using TensorFlow and MTCNN. Automatic training with a public Kaggle dataset, execution on Google Colab, and support for image upload for testing.
 * **Technologies**: Python, TensorFlow, MTCNN, OpenCV, Kagglehub, Google Colab
-* **Outcome**: Modelo treinado para reconhecimento facial em imagens com múltiplas pessoas, com interface simples para testes interativos.
+* **Outcome**: Trained model for facial recognition in images with multiple people, featuring a simple interface for interactive testing.
 
 ## [Web Scraping - Beautiful Soup](https://github.com/Zandersan/Beautiful-Soup)
 * **Overview**: Scraped data from Berlin’s official website using Beautiful Soup, created a dataset with restaurant information, and visualized it in an interactive map on Tableau Public.
