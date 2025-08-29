@@ -2,6 +2,11 @@
 
 Hello, I’m Alexandre! I’m thrilled to present my evolving portfolio as a data engineer. This repository showcases a diverse collection of projects I’ve completed, ranging from coursework in data analytics/engineering to self-initiated exercises. Each project reflects essential skills and techniques.
 
+# [Voice Assistant with NLP and Speech Processing](https://github.com/Zandersan/ml_study/tree/assistente_virtual_ptbr)
+* **Overview**: Complete voice assistant system built from scratch using Natural Language Processing (NLP) and speech processing technologies. Features real-time speech-to-text and text-to-speech conversion with voice command activation for automated functions including Wikipedia searches, YouTube integration, and location-based services.
+* **Technologies**: Python, SpeechRecognition, gTTS, PyAudio, Google Speech API, Wikipedia API, Web Automation
+* **Outcome**: Fully functional voice assistant capable of understanding Portuguese voice commands, processing natural language requests, and executing automated tasks with seamless speech interaction and error handling.
+
 ## [Facial Detection and Recognition with TensorFlow on Google Colab](https://github.com/Zandersan/ml_study/blob/deteccao_facial/deteccao_facial.ipynb)
 * **Overview**: Project to detect and recognize multiple faces simultaneously using TensorFlow and MTCNN. Automatic training with a public Kaggle dataset, execution on Google Colab, and support for image upload for testing.
 * **Technologies**: Python, TensorFlow, MTCNN, OpenCV, Kagglehub, Google Colab
